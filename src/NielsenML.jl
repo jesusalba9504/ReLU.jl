@@ -21,7 +21,7 @@ include("sigmoid_cost.jl")
 
 # println("Results for ReLU Function")
 
-# sgd!(net, data[1],0; test_data = data[2])
+# sgd!(net, data[1],1; test_data = data[2])
 
 
 end # module
